@@ -1,0 +1,14 @@
+artifact_path: file:///C:/Users/MSI/Downloads/RecoMart_pipeline/ml_training/mlruns/1/models/m-16f51d5bbff94c8fad1d023412a360cf/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 3.8.1
+model_id: m-16f51d5bbff94c8fad1d023412a360cf
+model_size_bytes: 240745
+model_uuid: m-16f51d5bbff94c8fad1d023412a360cf
+prompts: null
+run_id: 89065e52fc36420da882e33e4bdd6eb4
+utc_time_created: '2026-01-22 12:25:22.963902'
