@@ -39,14 +39,30 @@ echo [TASK 7] Registering features into feature store...
 python registry\register_features.py
 
 REM ---------- TASK 8: DATA VERSIONING & LINEAGE ----------
-echo [TASK 8] Versioning datasets and tracking lineage...
+echo [TASK 8] Versioning raw and processed datasets with DVC...
 
+REM ---- DVC VERSIONING (CORRECT) ----
 dvc add data/raw
 dvc add data/processed
+
+REM ---- GIT COMMIT ----
 git add .
 git commit -m "Auto dataset version update"
 
-echo [TASK 8] Data versioning completed
+echo [TASK 8] Data versioning completed successfully
+
+REM ---- LINEAGE GENERATION (Optional if script exists) ----
+IF EXIST versioning\generate_lineage.py (
+    echo [TASK 8] Generating lineage metadata...
+    python versioning\generate_lineage.py
+)
+
+REM -------- TASK 9: MODEL TRAINING & EVALUATION --------
+echo Training recommendation model...
+python model_training\train_cf_model.py
+
+REM -------- PIPELINE EXECUTION LOG (MONITORING) --------
+echo Pipeline executed successfully at %DATE% %TIME% >> logs\pipeline_scheduler.log
 
 echo.
 echo ==============================

@@ -40,3 +40,7 @@
 2026-01-22 16:55:28,567 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-22\user_events.csv
 2026-01-22 17:54:52,946 - INFO - User events ingestion started
 2026-01-22 17:54:54,712 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-22\user_events.csv
+2026-01-22 18:24:44,913 - INFO - User events ingestion started
+2026-01-22 18:24:46,160 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-22\user_events.csv
+2026-01-22 18:28:58,524 - INFO - User events ingestion started
+2026-01-22 18:28:58,797 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-22\user_events.csv
