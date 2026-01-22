@@ -1,0 +1,10 @@
+2026-01-20 00:41:14,356 - INFO - Rows to insert: 2000
+2026-01-20 00:41:16,206 - INFO - User events loaded into PostgreSQL successfully
+2026-01-22 15:55:25,415 - INFO - Rows to insert: 2000
+2026-01-22 15:55:27,286 - INFO - User events loaded into PostgreSQL successfully
+2026-01-22 16:25:15,391 - INFO - Rows to insert: 2000
+2026-01-22 16:25:16,239 - INFO - User events loaded into PostgreSQL successfully
+2026-01-22 16:55:48,512 - INFO - Rows to insert: 2000
+2026-01-22 16:55:53,629 - INFO - User events loaded into PostgreSQL successfully
+2026-01-22 17:55:05,974 - INFO - Rows to insert: 2000
+2026-01-22 17:55:08,164 - INFO - User events loaded into PostgreSQL successfully

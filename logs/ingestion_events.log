@@ -1,0 +1,42 @@
+2026-01-20 00:14:42,069 - INFO - User events ingestion started
+2026-01-20 00:14:42,125 - ERROR - User events ingestion failed: [Errno 2] No such file or directory: 'sample_events_2000.csv'
+2026-01-20 00:15:03,564 - INFO - User events ingestion started
+2026-01-20 00:15:03,566 - ERROR - User events ingestion failed: [Errno 2] No such file or directory: 'sample_events_2000.csv'
+2026-01-20 00:18:48,709 - INFO - User events ingestion started
+2026-01-20 00:18:48,712 - ERROR - User events ingestion failed: [Errno 2] No such file or directory: 'sample_events_2000.csv'
+2026-01-20 00:38:46,274 - INFO - User events ingestion started
+2026-01-20 00:38:50,165 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-20\user_events.csv
+2026-01-20 00:41:31,463 - INFO - User events ingestion started
+2026-01-20 00:41:31,822 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-20\user_events.csv
+2026-01-20 21:04:12,637 - INFO - User events ingestion started
+2026-01-20 21:04:24,674 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-20\user_events.csv
+2026-01-20 21:05:01,008 - INFO - User events ingestion started
+2026-01-20 21:05:01,282 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-20\user_events.csv
+2026-01-20 21:24:35,389 - INFO - User events ingestion started
+2026-01-20 21:24:35,660 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-20\user_events.csv
+2026-01-20 21:54:51,496 - INFO - User events ingestion started
+2026-01-20 21:54:53,860 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-20\user_events.csv
+2026-01-21 19:44:04,697 - INFO - User events ingestion started
+2026-01-21 19:50:52,742 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-21\user_events.csv
+2026-01-21 19:55:33,880 - INFO - User events ingestion started
+2026-01-21 19:55:38,139 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-21\user_events.csv
+2026-01-21 20:24:52,096 - INFO - User events ingestion started
+2026-01-21 20:24:53,419 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-21\user_events.csv
+2026-01-21 20:55:41,024 - INFO - User events ingestion started
+2026-01-21 20:55:44,472 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-21\user_events.csv
+2026-01-21 21:24:50,365 - INFO - User events ingestion started
+2026-01-21 21:24:51,367 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-21\user_events.csv
+2026-01-21 22:07:54,162 - INFO - User events ingestion started
+2026-01-21 22:07:56,702 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-21\user_events.csv
+2026-01-21 22:24:41,371 - INFO - User events ingestion started
+2026-01-21 22:24:42,160 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-21\user_events.csv
+2026-01-22 15:02:07,585 - INFO - User events ingestion started
+2026-01-22 15:03:43,993 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-22\user_events.csv
+2026-01-22 15:55:03,555 - INFO - User events ingestion started
+2026-01-22 15:55:14,704 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-22\user_events.csv
+2026-01-22 16:24:53,838 - INFO - User events ingestion started
+2026-01-22 16:25:01,390 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-22\user_events.csv
+2026-01-22 16:55:25,934 - INFO - User events ingestion started
+2026-01-22 16:55:28,567 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-22\user_events.csv
+2026-01-22 17:54:52,946 - INFO - User events ingestion started
+2026-01-22 17:54:54,712 - INFO - User events ingestion successful | Records: 2000 | Path: data/raw/csv/user_events\ingest_date=2026-01-22\user_events.csv
