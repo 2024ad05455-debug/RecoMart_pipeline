@@ -1,0 +1,13 @@
+{
+  "pipeline": "RecoMart",
+  "stage": "",
+  "timestamp": "",
+  "source_datasets": [],
+  "processed_datasets": [],
+  "transformations": [],
+  "feature_store": [],
+  "versioning": {
+    "tool": "DVC",
+    "repo": "Git"
+  }
+}
